@@ -1,1 +1,2 @@
 rule1: linux is manager and bash is developer
+rule2: Just added credentials manager lets see
