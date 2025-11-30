@@ -1,0 +1,1 @@
+rule1: linux is manager and bash is developer
